@@ -1,0 +1,15 @@
+C:\Projetos\Curso C#\CotacaoDolar\CotacaoDolar\bin\Debug\net6.0\CotacaoDolar.exe
+C:\Projetos\Curso C#\CotacaoDolar\CotacaoDolar\bin\Debug\net6.0\CotacaoDolar.deps.json
+C:\Projetos\Curso C#\CotacaoDolar\CotacaoDolar\bin\Debug\net6.0\CotacaoDolar.runtimeconfig.json
+C:\Projetos\Curso C#\CotacaoDolar\CotacaoDolar\bin\Debug\net6.0\CotacaoDolar.dll
+C:\Projetos\Curso C#\CotacaoDolar\CotacaoDolar\bin\Debug\net6.0\CotacaoDolar.pdb
+C:\Projetos\Curso C#\CotacaoDolar\CotacaoDolar\obj\Debug\net6.0\CotacaoDolar.csproj.AssemblyReference.cache
+C:\Projetos\Curso C#\CotacaoDolar\CotacaoDolar\obj\Debug\net6.0\CotacaoDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Curso C#\CotacaoDolar\CotacaoDolar\obj\Debug\net6.0\CotacaoDolar.AssemblyInfoInputs.cache
+C:\Projetos\Curso C#\CotacaoDolar\CotacaoDolar\obj\Debug\net6.0\CotacaoDolar.AssemblyInfo.cs
+C:\Projetos\Curso C#\CotacaoDolar\CotacaoDolar\obj\Debug\net6.0\CotacaoDolar.csproj.CoreCompileInputs.cache
+C:\Projetos\Curso C#\CotacaoDolar\CotacaoDolar\obj\Debug\net6.0\CotacaoDolar.dll
+C:\Projetos\Curso C#\CotacaoDolar\CotacaoDolar\obj\Debug\net6.0\refint\CotacaoDolar.dll
+C:\Projetos\Curso C#\CotacaoDolar\CotacaoDolar\obj\Debug\net6.0\CotacaoDolar.pdb
+C:\Projetos\Curso C#\CotacaoDolar\CotacaoDolar\obj\Debug\net6.0\CotacaoDolar.genruntimeconfig.cache
+C:\Projetos\Curso C#\CotacaoDolar\CotacaoDolar\obj\Debug\net6.0\ref\CotacaoDolar.dll
